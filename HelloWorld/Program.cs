@@ -7,3 +7,5 @@
 */
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("My name is Dominique Felix Jordan.");
+Console.WriteLine("This is my first program at ETSU!");
